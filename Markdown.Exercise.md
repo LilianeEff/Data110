@@ -69,11 +69,11 @@ Art is anything that looks appealing to the human eye and that is attributed val
 
 8.	**Context:** the personal, social, cultural and historical setting in which the art was created, received, and interpreted. Cubism happened because of the invention of photography, such is the context behind the emergence of abstract works.
 
-```python
-def greet(Art Appreciation):
-    return f"Notes{Art Appreciation}"
+`Art is for everyone`
 
-print(greet("World"))
+```
+To understand art experiencing it is necessary.
+```
 ```
 ### Checklist  of things I've done so far:
 - [ ] Understand Python so far
